@@ -23,5 +23,23 @@ I guess I'm just kinda putzing around trying to figure out this whole Git thing 
 4. Fourth
 5. Fifth
 
-## This pug's butthole looks like Jesus
-<img src="https://i.huffpost.com/gen/1189880/thumbs/o-JESUS-DOG-BUTT-570.jpg?1">
+## Sorry the image in my last merge was crude.
+How about something a little more educational? Let's explore the magic of markdown?
+
+So the first heading used in this README seems to be an H1; check out "hello-world" at the top of this document.
+
+The susbsequent heading "Why am I doing this?" is an H2 and the headings for the lists are H3s.
+
+# This is an H1
+## This is an H2
+### This is an H3
+#### This is an H4
+##### This is an H5
+###### And this, well I mean awh...just look at this cute little H6. It's the smollest boi we have available to us.
+
+## Styling text
+
+What's your style boo? You like to be **BIG AND BOLD**? Or do you *emphasize* like a *smooth operator*?
+
+What if you want to ~~spend an afternoon watching the Bachelorette with a tub of ice cream~~ strikethrough a mistake? Well you can use these little ~ tilde bois!
+
